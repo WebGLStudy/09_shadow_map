@@ -1,6 +1,8 @@
 # シャドウマップ
 別テクスチャへのレンダリングを行い、その結果を利用します。
 
+https://webglstudy.github.io/09_shadow_map/
+
 ![結果画像](result.png)
 
 # 課題
